@@ -13,6 +13,7 @@ Enter launch options at `Steam > Library > Counter-Strike: Global Offensive (rig
 ### Other Settings
 + Windows Sensitivity: 6/11  
 + Enhance Pointer Precision: No  
++ Mouse Sensitivity: 2
 + Mouse DPI: 400  
 + Mouse Polling Rate: 1000hz  
 + Windows 7 Aero: No - `csgo.exe Properties > Compatibility > Disable visual themes & Disable desktop composition`  
