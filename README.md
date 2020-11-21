@@ -6,8 +6,7 @@ After the Wild West Simulator 2015 update, *video.txt* needs to be put in `...\S
 
 ### Launch Options
 
-	-novid -freq 144 -refresh 144 -tickrate 128 -maxplayers_override 50 -nojoy -d3d9ex +exec autoexec
-
+	-novid -tickrate 128 -high -threads 6 +fps_max 0 +cl_interp 0 +cl_interp_ratio 1 +rate 128000 +cl_updaterate 128 +cl_cmdrate 128 +mat_queue_mode 2 -freq 144 -refresh 144  -d3d9ex -nojoy
 Enter launch options at `Steam > Library > Counter-Strike: Global Offensive (right-click) > Properties > Set Launch Options...`
 
 ### Other Settings
